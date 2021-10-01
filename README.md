@@ -16,9 +16,11 @@ Speaking of which, let's try and do that, shall we?
 
 ### Fighting
 Select your 3 pets on the right by either right clicking them, or pressing the "Select Pet" button.
+
 ![image](https://user-images.githubusercontent.com/12151584/135687399-6cc92364-4933-420c-b963-9c180a430a42.png)
 
 Once they're all selected, just press the "Search Match" button and wait a little bit!
+
 ![image](https://user-images.githubusercontent.com/12151584/135687493-26c07869-f93e-48aa-8912-b3cea6f4fee2.png)
 
 ## Combat System
@@ -26,7 +28,9 @@ The combat is automatic, and the way it works is very simple.
 Each player attacks within the order of their creatures in crescent order. 
 Being Pet #1 the first attacker on each side, and up to Pet #3. 
 This sequence loops until one of the players has lost all of his pets in combat and the winner is decided. 
+
 ![image](https://user-images.githubusercontent.com/12151584/135687748-cf5a145d-0dd8-460d-8b16-a64938174fcf.png)
+
 You can speed up the fight by clicking the buttons on the bottom!
 At the end of the match, each pet gets 50 experience, and pets that fainted will be injured for a period that is equivalent to its level.
 You also get or lose some ranking, depending if you've won!
