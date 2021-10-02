@@ -14,7 +14,7 @@ Following that, you can swap Near for some PXT on our website. But fear not! If 
 This is where you will find all the pets you have! You always start with these 3, so you can check out how the game works.
 Speaking of which, let's try and do that, shall we?
 
-### Fighting
+## Fighting
 Select your 3 pets on the right by either right clicking them, or pressing the "Select Pet" button.
 
 ![image](https://user-images.githubusercontent.com/12151584/135687399-6cc92364-4933-420c-b963-9c180a430a42.png)
@@ -23,7 +23,7 @@ Once they're all selected, just press the "Search Match" button and wait a littl
 
 ![image](https://user-images.githubusercontent.com/12151584/135687493-26c07869-f93e-48aa-8912-b3cea6f4fee2.png)
 
-## Combat System
+### Combat System
 The combat is automatic, and the way it works is very simple. 
 Each player attacks within the order of their creatures in crescent order. 
 Being Pet #1 the first attacker on each side, and up to Pet #3. 
@@ -61,49 +61,49 @@ It's possible to raise the training level of the creature to level 10. Each trai
 The powerlevel is a random number between 30 and 100 and affects the stats of the pet based on it's value. 30 decreases the stats by 20%, 100 increases the stats by 60%.
 
 ### Attack Type
-![image](https://user-images.githubusercontent.com/12151584/135688611-39c84aa3-6046-4d1f-99dc-6adbb2fd2181.png)
+![image](https://user-images.githubusercontent.com/12151584/135700952-e0707a19-edc8-484d-807a-7847c04d0799.png)
 
 The Element type the creature will inflict when attacking. This element reacts with other elements, having a stronger effect against some elements and weaker against others. 
 
 ### Body Type
-![image](https://user-images.githubusercontent.com/12151584/135688686-78330930-eef3-4609-8cd2-7f2f0a2ab924.png)
+![image](https://user-images.githubusercontent.com/12151584/135700942-18dbf96f-3ca5-4abd-8796-755f6a8ad2c6.png)
 
 The Element type of the creature. When received damage from another element, the creature will take more damage from some elements and less from others.
 
 ### Damage
+![image](https://user-images.githubusercontent.com/12151584/135700967-bb940ce8-8af8-472a-aaa9-c67e7a6aa84d.png)
+
 Damage is the raw amount of damage a creature can cause, this by-passes the element synergy, but can be dodged.
 
-### Defense
-Defense is how much raw damage a creature can soak, this does not apply for magical damage.
+### Armor
+![image](https://user-images.githubusercontent.com/12151584/135700985-86e44aaf-159c-488d-8b5a-7ec1f2ad0195.png)
+
+Armor is how much raw damage a creature can soak, this does not apply for magical damage.
 
 ### Magic
+![image](https://user-images.githubusercontent.com/12151584/135700981-233d0296-2a8e-4ba2-b4cc-3bfecda9b4e1.png)
+
 Magical damage is the element damage a creature can inflict, it can by-pass defense but can also be dodged.
 
 ### Speed
+![image](https://user-images.githubusercontent.com/12151584/135700971-2c3777e2-a475-4c86-8e74-8915c6a28949.png)
+
 Speed increases the chance that your creature will dodge an attack.
 
 ### Rarity
-The creature's rarity is tied to the egg from which it hatched from. The rarity of a creature will increase its stats.
+![image](https://user-images.githubusercontent.com/12151584/135701023-36afbf81-d3d4-4718-bf1c-082c12290b3e.png)
 
-### Drop chance
-A creature can have a common/rare/very rare drop chance. Making it slightly stronger depending on how rare the drop is.
+The creature's rarity is tied to the egg from which it hatched from. The rarity of a creature will increase its stats by 10% for each rarity rank.
+Being Common: 10%, Rare: 20%, Epic: 32%, Legendary 45%
+
+## Some other information
 
 ### Fighting Points
+![image](https://user-images.githubusercontent.com/12151584/135701088-4c1ef8ad-bdb9-4d57-87fc-7a1ea6e324b4.png)
+
 Fighting points are a currency used to fight other players. Whenever you fight, you spend 1 fight point. When it reaches 0, you can spend 0.5N to add an additional 250 fighting points to your balance.
 
 ### Allowance
+![image](https://user-images.githubusercontent.com/12151584/135701096-0049c1b5-72fc-4a88-a0c2-ed6cc937e073.png)
+
 Allowance are points used whenever you make a server call. If you stay too long in the game, it will run out and you'll have to re-login in order to fill it up again.
-
-### Egg Supply
-The egg supply represents how many eggs are available in the server for purchase. When it runs out, you cannot purchase that type of egg anymore, until it's refilled again.
-
-## Tournaments
-Tournaments happen every week, at the end of each week, winners are announced and those winners will receive prizes.
-
-## Weekly rewards
-
-
-## Roadmap
-
-
-## Glossar
