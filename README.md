@@ -157,5 +157,17 @@ Finally, at the top, you can switch between the global ladder (4.) and the clash
 
 Tournaments happen every week, at the end of each week, winners are announced and those winners will receive prizes. The winners are decided by how many matches they won on the period of the tournament (which lasts for a week)
 
+## Buying some friends
+![image](https://user-images.githubusercontent.com/12151584/135701671-f1e4f2a4-3758-42a5-9cce-6dca42e2a6d5.png)
 
+Okay, but what if I don't want to wait for an egg to hatch? Well, thats why we have the market!
+
+Once in there, it's very straight forward, just click the pet you want and choose which offer you like the best!
+You can sort them out by price, level, power level and other stats you wish!
+
+![image](https://user-images.githubusercontent.com/12151584/135701692-3700a5ae-cfe1-4b10-867c-a25af8168b9d.png)
+
+Once you have chosen your favorite offer, you can buy them and they will be yours!
+
+![image](https://user-images.githubusercontent.com/12151584/135701722-d42f3f90-1466-4c07-b920-4aa3904b04dc.png)
 
